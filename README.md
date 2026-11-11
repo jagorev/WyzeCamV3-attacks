@@ -1,4 +1,21 @@
+<a id="top"></a>
+
 # Wyze Cam V3 Security Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/jagorev/WyzeCamV3-attacks?style=for-the-badge" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/jagorev/WyzeCamV3-attacks?style=for-the-badge" alt="Repository size" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/regulation-EU%20Cyber%20Resilience%20Act-1D4ED8?style=for-the-badge" alt="EU Cyber Resilience Act" />
+  <img src="https://img.shields.io/badge/device-Wyze%20Cam%20v3-0F766E?style=for-the-badge" alt="Wyze Cam v3" />
+  <img src="https://img.shields.io/badge/context-MSc%20thesis%20research-7C3AED?style=for-the-badge" alt="Thesis research" />
+</p>
+
+<p align="center">
+  <a href="thesis.pdf"><strong>Read the thesis (PDF)</strong></a>
+</p>
 
 A comprehensive security analysis framework for the Wyze Cam v3, developed as part of a thesis project focused on defining a verification framework for Cyber Resilience Act (CRA) compliance.
 
@@ -146,3 +163,11 @@ This research was conducted for educational and academic purposes only. All test
 ## License
 
 This project is for educational and research purposes. See the thesis document for complete methodology and citations.
+
+<p align="center">
+  <a href="#top" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/up.png" alt="Back to Top" width="40" height="40"/>
+    <br>
+    <strong>Back to Top</strong>
+  </a>
+</p>
